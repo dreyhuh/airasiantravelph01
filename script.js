@@ -237,7 +237,7 @@ smoothLinks.forEach(function(link){
 // CONTACT FORM DEMO
 // =========================================
 
-
+/*
 const contactForm = document.querySelector(
     ".contact-form"
 );
@@ -272,8 +272,7 @@ if(contactForm){
 
 
 }
-
-
+*/
 
 
 
